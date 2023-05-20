@@ -1,0 +1,24 @@
+{
+  [
+    {
+      "location": "New York",
+      "temperature": 22,
+      "description": "Sunny"
+    },
+    {
+      "location": "London",
+      "temperature": 18,
+      "description": "Cloudy"
+    },
+    {
+      "location": "Tokyo",
+      "temperature": 25,
+      "description": "Rainy"
+    },
+    {
+      "location": "Sydney",
+      "temperature": 28,
+      "description": "Partly Cloudy"
+    }
+  ]
+}

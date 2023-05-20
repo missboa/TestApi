@@ -1,0 +1,81 @@
+{
+  "expenseItems": [
+    {
+      "id": 1,
+      "date": "2023-05-01",
+      "category": "Food",
+      "description": "Lunch at a restaurant",
+      "amount": 25.5
+    },
+    {
+      "id": 2,
+      "date": "2023-05-02",
+      "category": "Transportation",
+      "description": "Taxi fare",
+      "amount": 10.75
+    },
+    {
+      "id": 3,
+      "date": "2023-05-03",
+      "category": "Groceries",
+      "description": "Weekly grocery shopping",
+      "amount": 75.0
+    },
+    {
+      "id": 4,
+      "date": "2023-05-04",
+      "category": "Entertainment",
+      "description": "Movie ticket",
+      "amount": 12.0
+    },
+    {
+      "id": 5,
+      "date": "2023-05-05",
+      "category": "Utilities",
+      "description": "Electricity bill",
+      "amount": 50.25
+    },
+    {
+      "id": 6,
+      "date": "2023-05-06",
+      "category": "Food",
+      "description": "Dinner at a cafe",
+      "amount": 35.75
+    },
+    {
+      "id": 7,
+      "date": "2023-05-07",
+      "category": "Transportation",
+      "description": "Bus fare",
+      "amount": 3.0
+    },
+    {
+      "id": 8,
+      "date": "2023-05-08",
+      "category": "Shopping",
+      "description": "New pair of shoes",
+      "amount": 89.99
+    },
+    {
+      "id": 9,
+      "date": "2023-05-09",
+      "category": "Utilities",
+      "description": "Internet bill",
+      "amount": 60.0
+    },
+    {
+      "id": 10,
+      "date": "2023-05-10",
+      "category": "Groceries",
+      "description": "Fruits and vegetables",
+      "amount": 20.5
+    },
+    {
+      "id": 11,
+      "date": "2023-05-11",
+      "category": "Entertainment",
+      "description": "Concert tickets",
+      "amount": 75.0
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+    "colors": [
+        {
+            "hex": "#FF0000",
+            "name": "Ruby Red"
+        },
+        {
+            "hex": "#FF0000",
+            "name": "Ruby Red"
+        },
+        {
+            "hex": "#0000FF",
+            "name": "Sapphire Blue"
+        },
+        {
+            "hex": "#008000",
+            "name": "Emerald Green"
+        },
+        {
+            "hex": "#FFD700",
+            "name": "Golden Yellow"
+        },
+        {
+            "hex": "#9966CC",
+            "name": "Amethyst Purple"
+        },
+        {
+            "hex": "#40E0D0",
+            "name": "Turquoise"
+        },
+        {
+            "hex": "#DC143C",
+            "name": "Crimson"
+        },
+        {
+            "hex": "#00FFFF",
+            "name": "Aqua"
+        },
+        {
+            "hex": "#E6E6FA",
+            "name": "Lavender"
+        },
+        {
+            "hex": "#FF00FF",
+            "name": "Magenta"
+        },
+        {
+            "hex": "#FFF700",
+            "name": "Lemon Yellow"
+        },
+        {
+            "hex": "#0047AB",
+            "name": "Cobalt Blue"
+        },
+        {
+            "hex": "#228B22",
+            "name": "Forest Green"
+        },
+        {
+            "hex": "#FF4500",
+            "name": "Sunset Orange"
+        },
+        {
+            "hex": "#008080",
+            "name": "Teal"
+        },
+        {
+            "hex": "#FFC0CB",
+            "name": "Pink"
+        },
+        {
+            "hex": "#000080",
+            "name": "Navy Blue"
+        },
+        {
+            "hex": "#FFA500",
+            "name": "Tangerine"
+        },
+        {
+            "hex": "#808000",
+            "name": "Olive Green"
+        },
+        {
+            "hex": "#DDA0DD",
+            "name": "Plum"
+        },
+        {
+            "hex": "#800080",
+            "name": "Royal Purple"
+        },
+        {
+            "hex": "#87CEEB",
+            "name": "Sky Blue"
+        },
+        {
+            "hex": "#FF6F61",
+            "name": "Coral"
+        },
+        {
+            "hex": "#98FB98",
+            "name": "Mint Green"
+        },
+        {
+            "hex": "#4B0082",
+            "name": "Indigo"
+        },
+        {
+            "hex": "#FFDAB9",
+            "name": "Peach"
+        },
+        {
+            "hex": "#800000",
+            "name": "Maroon"
+        },
+        {
+            "hex": "#00FF00",
+            "name": "Lime Green"
+        },
+        {
+            "hex": "#CCCCFF",
+            "name": "Periwinkle"
+        },
+        {
+            "hex": "#CD7F32",
+            "name": "Bronze"
+        },
+        {
+            "hex": "#FF007F",
+            "name": "Rose"
+        },
+        {
+            "hex": "#00FFFF",
+            "name": "Cyan"
+        },
+        {
+            "hex": "#C8A2C8",
+            "name": "Lilac"
+        },
+        {
+            "hex": "#FFD700",
+            "name": "Gold"
+        },
+        {
+            "hex": "#C0C0C0",
+            "name": "Silver"
+        },
+        {
+            "hex": "#00827D",
+            "name": "Teal Green"
+        },
+        {
+            "hex": "#8A2BE2",
+            "name": "Violet"
+        },
+        {
+            "hex": "#CB4154",
+            "name": "Brick Red"
+        },
+        {
+            "hex": "#00FFCD",
+            "name": "Seafoam Green"
+        },
+        {
+            "hex": "#D2691E",
+            "name": "Chocolate Brown"
+        },
+        {
+            "hex": "#708090",
+            "name": "Slate Gray"
+        },
+        {
+            "hex": "#E30B5D",
+            "name": "Raspberry"
+        },
+        {
+            "hex": "#FA8072",
+            "name": "Salmon"
+        },
+        {
+            "hex": "#007FFF",
+            "name": "Azure"
+        },
+        {
+            "hex": "#00CED1",
+            "name": "Turquoise Blue"
+        },
+        {
+            "hex": "#990000",
+            "name": "Crimson Red"
+        },
+        {
+            "hex": "#FFDB58",
+            "name": "Mustard"
+        },
+        {
+            "hex": "#007BA7",
+            "name": "Cerulean"
+        },
+        {
+            "hex": "#00FF00",
+            "name": "Lime"
+        }
+    ]
+}
